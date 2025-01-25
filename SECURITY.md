@@ -1,21 +1,17 @@
-# Security Policy
+# Polityka Bezpieczeństwa
 
-## Supported Versions
+## Wspierane wersje
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Poniżej znajduje się lista wersji projektu, które obecnie otrzymują aktualizacje bezpieczeństwa:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Wersja | Wsparcie          |
+|--------|-------------------|
+| 1.x    | :white_check_mark: |
+| < 1.x  | :x:               |
 
-## Reporting a Vulnerability
+## Zgłaszanie podatności
 
-Use this section to tell people how to report a vulnerability.
+Jeśli znajdziesz podatność bezpieczeństwa, zgłoś ją, wysyłając wiadomość e-mail na adres **[twoj-email@example.com]**.  
+Dokładamy starań, aby odpowiedzieć na wszystkie zgłoszenia w ciągu **48 godzin**.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Prosimy, aby nie ujawniać publicznie szczegółów podatności, dopóki problem nie zostanie rozwiązany. Dziękujemy za pomoc w utrzymaniu bezpieczeństwa projektu!
