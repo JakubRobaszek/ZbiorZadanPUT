@@ -1,5 +1,5 @@
 # Zadania do nauki programowania w Python'ie
-
+[![Licencja MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Opis projektu
 
 Repozytorium zawiera rozwiązania zadań programistycznych w Pythonie, które zostały zaadaptowane z materiałów dydaktycznych Politechniki Poznańskiej z Instytutu Informatyki. Zadania oryginalnie są napisane dla języka C++, jednak doskonale nadają się do nauki dowolnego języka programowania.
