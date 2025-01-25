@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462c0537-56fc-4d24-aec4-42bbb1c02784" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/7.1 rysowanie wzorków/5.py" afterDir="false" />
+    <list default="true" id="462c0537-56fc-4d24-aec4-42bbb1c02784" name="Changes" comment="Added excercise 5">
+      <changelist_data name="Jakub Robaszek" email="112584909+jakubrobaszek@users.noreply.github.com" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/zadania/7.1_rysowanie_wzorkow/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania/7.1_rysowanie_wzorkow/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania/7.1_rysowanie_wzorkow/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania/7.1_rysowanie_wzorkow/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.1 rysowanie wzorków/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/zadania/7.1_rysowanie_wzorkow/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.1 rysowanie wzorków/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/zadania/7.1_rysowanie_wzorkow/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.1 rysowanie wzorków/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/zadania/7.1_rysowanie_wzorkow/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.1 rysowanie wzorków/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/zadania/7.1_rysowanie_wzorkow/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.1 rysowanie wzorków/5.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +30,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jakub Robaszek &lt;112584909+jakubrobaszek@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JakubRobaszek"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JakubRobaszek/ZbiorZadanPUT.git",
+    "accountId": "c35343fe-1c4b-4d93-a99e-f8816364d265"
+  }
+}]]></component>
+  <component name="MaliciousPackageCheckinHandlerState">
+    <option name="packageCheck" value="true" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -40,12 +70,20 @@
     "Python.2.executor": "Run",
     "Python.3.executor": "Run",
     "Python.4.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kuba\PycharmProjects\ZbiorZadanPUT\zadania" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,11 +108,40 @@
       <option name="project" value="LOCAL" />
       <updated>1737765409864</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added excercise 5">
+      <option name="closed" value="true" />
+      <created>1737765498539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737765498539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Added excercise 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added excercise 5" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
