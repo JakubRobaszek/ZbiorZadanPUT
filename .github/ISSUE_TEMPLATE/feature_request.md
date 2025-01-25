@@ -1,20 +1,20 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Prośba o funkcję
+about: Zasugeruj nową funkcjonalność dla projektu
+title: "[FUNKCJA] Krótki opis funkcji"
+labels: ulepszenie
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Czy Twój pomysł jest związany z jakimś problemem? Opisz go.**
+Jasny i zwięzły opis problemu. Np. "Często mam problem z [...]"
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Opisz rozwiązanie, które chciałbyś zobaczyć**
+Jasny i zwięzły opis oczekiwanego rozwiązania.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Opisz alternatywy, które rozważałeś**
+Jasny i zwięzły opis wszelkich alternatywnych rozwiązań lub funkcji, które brałeś pod uwagę.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Dodatkowe informacje**
+Dodaj wszelkie dodatkowe informacje lub zrzuty ekranu, które mogą pomóc w zrozumieniu Twojej propozycji.
